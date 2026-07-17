@@ -21,6 +21,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
@@ -30,4 +31,12 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
