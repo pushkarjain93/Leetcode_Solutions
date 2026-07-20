@@ -21,6 +21,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -29,6 +30,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
+| [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -67,6 +69,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -81,9 +84,11 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
