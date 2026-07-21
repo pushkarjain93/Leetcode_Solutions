@@ -14,6 +14,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -23,6 +24,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -35,6 +37,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
@@ -43,6 +46,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
@@ -52,6 +56,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -76,11 +81,13 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
