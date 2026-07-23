@@ -65,11 +65,13 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 ## Math
 |  |
@@ -119,4 +121,8 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
