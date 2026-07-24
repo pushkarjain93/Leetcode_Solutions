@@ -32,6 +32,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2360-longest-cycle-in-a-graph](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -125,4 +128,8 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
