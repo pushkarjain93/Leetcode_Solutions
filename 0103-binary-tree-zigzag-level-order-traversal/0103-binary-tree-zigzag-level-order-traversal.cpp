@@ -15,20 +15,19 @@ public:
       if(root==NULL)return{};
         queue<TreeNode*>q;
           q.push(root);
-          vector<vector<int>>ans;
+          vector<vector<int>>ans;int x=0;
         while(q.size()>0){
            int n = q.size();
-           vector<int>temp;
+           vector<int>temp(n);x++;
            for(int i=0;i<n;i++){
               TreeNode* t = q.front();q.pop();
-              temp.push_back(t->val);
+              if(x%2==0) temp[n-i-1]=t->val;
+             else temp[i]=(t->val);
               if(t->left != NULL){q.push(t->left);}
               if(t->right != NULL){q.push(t->right);}
            }
            ans.push_back(temp);
         }
-        for(int i=0;i<ans.size();i++){
-            if(i%2){reverse(ans[i].begin(),ans[i].end());}
-        }return ans;
+        return ans;
     }
 };
