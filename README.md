@@ -35,6 +35,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0144-binary-tree-preorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
@@ -199,6 +200,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0144-binary-tree-preorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -213,6 +215,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0144-binary-tree-preorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Counting Sort
 |  |
