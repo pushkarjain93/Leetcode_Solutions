@@ -42,6 +42,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -62,6 +63,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -90,6 +92,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
@@ -205,6 +208,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,6 +225,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
