@@ -37,6 +37,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -56,6 +57,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -202,6 +204,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -217,6 +220,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
