@@ -39,6 +39,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0145-binary-tree-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
@@ -60,6 +61,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
@@ -106,6 +108,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -224,6 +227,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -245,6 +249,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -262,4 +267,8 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
