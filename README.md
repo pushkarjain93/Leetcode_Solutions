@@ -18,6 +18,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
@@ -119,6 +120,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -149,6 +151,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Simulation
@@ -288,4 +291,12 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
