@@ -24,6 +24,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -163,6 +164,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -286,6 +288,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Greedy
 |  |
 | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
