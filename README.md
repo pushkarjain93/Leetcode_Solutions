@@ -139,6 +139,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
@@ -329,4 +330,8 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
