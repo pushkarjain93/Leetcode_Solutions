@@ -138,6 +138,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -179,6 +180,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 ## Simulation
 |  |
@@ -333,8 +335,25 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
