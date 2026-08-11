@@ -34,6 +34,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1260-shift-2d-grid](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -169,6 +170,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Dynamic Programming
@@ -202,6 +204,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1514-path-with-maximum-probability](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2360-longest-cycle-in-a-graph](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
@@ -210,6 +213,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Combinatorics
 |  |
@@ -389,5 +393,6 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->
