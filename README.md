@@ -391,6 +391,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0620-not-boring-movies) |
