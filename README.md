@@ -377,4 +377,5 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
