@@ -373,4 +373,8 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
