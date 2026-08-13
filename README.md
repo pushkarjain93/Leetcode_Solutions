@@ -395,6 +395,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
