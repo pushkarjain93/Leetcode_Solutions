@@ -402,6 +402,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0596-classes-with-at-least-5-students](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1280-students-and-examinations) |
 | [1587-bank-account-summary-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1693-daily-leads-and-partners) |
