@@ -402,6 +402,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0620-not-boring-movies](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
