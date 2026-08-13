@@ -407,6 +407,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1148-article-views-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1693-daily-leads-and-partners) |
