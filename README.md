@@ -394,6 +394,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
