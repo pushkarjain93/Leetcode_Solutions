@@ -129,6 +129,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -140,6 +141,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0520-detect-capital](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -233,6 +235,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Topological Sort
 |  |
 | ------- |
