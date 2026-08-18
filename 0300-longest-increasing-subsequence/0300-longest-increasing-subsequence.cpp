@@ -13,8 +13,8 @@ if(dp[i][prev+1]!=-1)return dp[i][prev+1];
   return dp[i][prev+1]=max(x,y);
 }
     int lengthOfLIS(vector<int>& a) {
-        
-        vector<vector<int>>dp(a.size(),vector<int>(a.size()+1,-1));
+
+        vector<vector<int>>dp(a.size(),vector<int>(a.size(),-1));
         return rec(0,-1,a,dp);
     }
 };
