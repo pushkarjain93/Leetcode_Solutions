@@ -13,6 +13,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -402,6 +403,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0295-find-median-from-data-stream](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
