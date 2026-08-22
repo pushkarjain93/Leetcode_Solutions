@@ -15,6 +15,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0027-remove-element](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -257,6 +258,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
@@ -448,4 +450,8 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
