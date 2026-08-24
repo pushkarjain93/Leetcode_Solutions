@@ -16,6 +16,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0027-remove-element](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -176,6 +177,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
