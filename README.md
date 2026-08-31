@@ -466,4 +466,8 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
