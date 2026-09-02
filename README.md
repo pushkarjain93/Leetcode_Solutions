@@ -72,6 +72,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0814-binary-tree-pruning](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -325,6 +326,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -348,6 +350,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0543-diameter-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Counting Sort
