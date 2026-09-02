@@ -81,6 +81,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1325-delete-leaves-with-a-given-value](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -105,6 +106,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2360-longest-cycle-in-a-graph](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -115,6 +117,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +242,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2360-longest-cycle-in-a-graph](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
 |  |
