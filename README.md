@@ -78,6 +78,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
@@ -328,6 +329,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0700-search-in-a-binary-search-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -352,6 +354,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0700-search-in-a-binary-search-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Counting Sort
 |  |
