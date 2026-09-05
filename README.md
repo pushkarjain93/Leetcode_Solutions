@@ -54,6 +54,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -482,4 +483,8 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
