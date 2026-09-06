@@ -158,6 +158,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0520-detect-capital](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0520-detect-capital) |
@@ -213,6 +214,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
