@@ -47,6 +47,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -123,6 +124,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1927-sum-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -191,6 +194,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -498,4 +502,16 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Prime Factorization
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 <!---LeetCode Topics End-->
