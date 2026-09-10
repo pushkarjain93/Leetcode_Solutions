@@ -36,6 +36,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [0867-transpose-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -152,6 +153,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1386-cinema-seat-allocation](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -172,6 +174,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0520-detect-capital](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0520-detect-capital) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1927-sum-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -303,6 +306,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0414-third-maximum-number](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
