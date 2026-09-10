@@ -43,6 +43,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1514-path-with-maximum-probability](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -150,6 +151,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1386-cinema-seat-allocation](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -406,6 +408,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
