@@ -225,6 +225,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
@@ -326,6 +327,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -529,6 +531,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Prefix Sum
 |  |
@@ -547,4 +550,12 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
