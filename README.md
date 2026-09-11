@@ -57,6 +57,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -164,6 +165,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -434,6 +436,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
@@ -446,6 +449,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
 |  |
 | ------- |
