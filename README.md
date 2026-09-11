@@ -351,6 +351,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0094-binary-tree-inorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -445,6 +446,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
@@ -533,6 +535,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0021-merge-two-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -558,4 +561,8 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
