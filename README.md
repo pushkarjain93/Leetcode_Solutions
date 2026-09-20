@@ -190,6 +190,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -269,6 +270,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1260-shift-2d-grid](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
 |  |
 | ------- |
