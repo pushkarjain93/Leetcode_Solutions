@@ -39,6 +39,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0867-transpose-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0973-k-closest-points-to-origin](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1020-number-of-enclaves](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -210,6 +211,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1927-sum-game) |
@@ -250,6 +252,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0743-network-delay-time](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -338,6 +341,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0435-non-overlapping-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0973-k-closest-points-to-origin](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -355,6 +359,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -369,6 +374,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -615,4 +621,12 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
