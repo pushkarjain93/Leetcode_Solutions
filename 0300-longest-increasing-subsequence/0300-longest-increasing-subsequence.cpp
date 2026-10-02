@@ -19,6 +19,6 @@ int rec(int i,int prev,vector<int>&a,vector<vector<int>>&dp){
 }
     int lengthOfLIS(vector<int>& a) {
         vector<vector<int>>dp(a.size(),vector<int>(a.size()+1,-1));
-        return rec(0,-100000,a,dp);
+        return rec(0,-1,a,dp);
     }
 };
