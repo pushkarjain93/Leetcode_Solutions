@@ -179,6 +179,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3265-count-almost-equal-pairs-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -204,6 +205,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -371,6 +373,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3265-count-almost-equal-pairs-i) |
 ## Quickselect
 |  |
