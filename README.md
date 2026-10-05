@@ -22,6 +22,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -215,6 +216,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -236,6 +238,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2584-split-the-array-to-make-coprime-products) |
@@ -519,6 +522,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3265-count-almost-equal-pairs-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -661,4 +665,16 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
