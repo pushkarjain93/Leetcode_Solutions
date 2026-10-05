@@ -198,6 +198,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0520-detect-capital](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -394,6 +395,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0145-binary-tree-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -630,6 +632,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0020-valid-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
