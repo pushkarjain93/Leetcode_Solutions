@@ -172,6 +172,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -201,6 +202,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
@@ -387,6 +389,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3265-count-almost-equal-pairs-i) |
@@ -686,4 +689,8 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
