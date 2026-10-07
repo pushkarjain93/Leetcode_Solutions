@@ -120,6 +120,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0199-binary-tree-right-side-view](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -199,6 +200,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0115-distinct-subsequences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0520-detect-capital](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
@@ -667,6 +669,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Iterator
 |  |
 | ------- |
