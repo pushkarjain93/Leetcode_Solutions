@@ -63,6 +63,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [2333-minimum-sum-of-squared-difference](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -544,6 +545,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3265-count-almost-equal-pairs-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
