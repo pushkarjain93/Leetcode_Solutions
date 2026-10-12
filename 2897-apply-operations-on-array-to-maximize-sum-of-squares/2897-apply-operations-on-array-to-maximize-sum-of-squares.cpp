@@ -27,7 +27,6 @@ public:
         }
         res.push_back(t);
         }
-        sort(res.rbegin(),res.rend());
         long long int ans=0;
         for(int i=0;i<k;i++){
               ans=ans+(res[i]*1ll*res[i]);
