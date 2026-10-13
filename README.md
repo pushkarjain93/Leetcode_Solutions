@@ -59,6 +59,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2584-split-the-array-to-make-coprime-products) |
