@@ -74,6 +74,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -383,6 +384,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3265-count-almost-equal-pairs-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3265-count-almost-equal-pairs-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -507,6 +509,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
