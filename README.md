@@ -21,6 +21,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0221-maximal-square) |
@@ -147,6 +148,7 @@ Feel free to explore the solutions and use them for learning and reference.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -178,6 +180,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
