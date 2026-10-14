@@ -249,6 +249,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3345-smallest-divisible-digit-product-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
@@ -510,6 +511,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
