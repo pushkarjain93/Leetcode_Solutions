@@ -67,6 +67,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -193,6 +194,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -723,4 +725,12 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
