@@ -58,6 +58,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2239-find-closest-number-to-zero) |
@@ -277,6 +278,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1631-path-with-minimum-effort](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -386,6 +388,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
