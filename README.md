@@ -81,6 +81,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
 |  |
@@ -260,6 +261,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -398,6 +400,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3536-maximum-product-of-two-digits](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -570,6 +573,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3265-count-almost-equal-pairs-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3265-count-almost-equal-pairs-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Minimax
 |  |
 | ------- |
