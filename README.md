@@ -237,6 +237,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3223-minimum-length-of-string-after-operations](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
