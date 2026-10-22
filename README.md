@@ -83,6 +83,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Depth-First Search
 |  |
 | ------- |
