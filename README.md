@@ -232,6 +232,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1927-sum-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -254,6 +255,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2709-greatest-common-divisor-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
