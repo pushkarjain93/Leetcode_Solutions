@@ -196,6 +196,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -228,6 +229,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -395,6 +397,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
