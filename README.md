@@ -243,6 +243,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -537,6 +538,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1053-previous-permutation-with-one-swap](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1386-cinema-seat-allocation](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
