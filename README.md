@@ -228,6 +228,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0022-generate-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -615,6 +616,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## Data Stream
