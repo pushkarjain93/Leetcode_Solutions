@@ -32,6 +32,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0414-third-maximum-number](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -264,6 +265,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | ------- |
 | [0204-count-primes](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -410,6 +412,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [0347-top-k-frequent-elements](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
