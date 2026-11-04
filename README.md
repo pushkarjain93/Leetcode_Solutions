@@ -230,6 +230,7 @@ Feel free to explore the solutions and use them for learning and reference.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
