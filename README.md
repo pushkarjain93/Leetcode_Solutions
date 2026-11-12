@@ -80,6 +80,7 @@ Feel free to explore the solutions and use them for learning and reference.
 | [3005-count-elements-with-maximum-frequency](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3101-count-alternating-subarrays](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3101-count-alternating-subarrays) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3265-count-almost-equal-pairs-i](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3265-count-almost-equal-pairs-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarjain93/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
